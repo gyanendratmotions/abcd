@@ -1,1 +1,1 @@
-print("Testing Github Copilot integration.")
+print("Testing Github Copilot integration. Hello, World!")
